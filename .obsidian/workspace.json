@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "1c201248a25ec878",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e52b02bfe50f1ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273ccdc291b4b073",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b68b0aa28f5ad0ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee71ccd5f5ab58cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eba880c5cae3a4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "56946de47b6f5331",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "10acc37f9e4d227e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f4bf99abf163bce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8224acc804a98d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0875ffebed526202",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "45192caea8435fc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6f2eef912eadd31a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "94fcbfc4df6ad865",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6db70cae40ffb194",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "273ccdc291b4b073",
+  "lastOpenFiles": [
+    "课程笔记s/未命名文件夹",
+    "token.md",
+    "课程笔记s/数学分析/数分下册.md",
+    "课程笔记s/数学分析/数分上册.md",
+    "课程笔记s/数学分析/级数练习题.pdf",
+    "课程笔记s/数学分析/Drawing 2026-03-22 22.19.47.excalidraw.md",
+    "课程笔记s/数学分析(第3版)(下册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
+    "课程笔记s/数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
+    "课程笔记s/会计学/会计要素.md",
+    "数学分析(第3版)(下册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
+    "数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf"
+  ]
+}
