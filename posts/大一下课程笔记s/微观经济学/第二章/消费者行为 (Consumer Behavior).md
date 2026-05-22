@@ -1,3 +1,8 @@
+---
+title: "消费者行为 (Consumer Behavior)"
+published: 2026-05-23
+---
+
 
 ---
 
