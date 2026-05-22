@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "da13d22fe925800a",
+        "id": "b83e3d024c543716",
         "type": "tabs",
         "children": [
           {
-            "id": "4432f23cf74b6c6b",
+            "id": "5d9659a9476f87df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "excalidraw",
+              "state": {
+                "file": "大一下课程笔记s/微积分/数项级数.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "数项级数"
             }
           }
         ]
@@ -108,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "大一下课程笔记s/微观经济学/第二章/消费者行为 (Consumer Behavior).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "大一下课程笔记s/数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +143,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "大一下课程笔记s/数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -152,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -162,24 +168,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4432f23cf74b6c6b",
+  "active": "5d9659a9476f87df",
   "lastOpenFiles": [
+    "大一下课程笔记s/微观经济学/第二章/消费者行为 (Consumer Behavior).md",
+    "大一下课程笔记s/微积分/函数项级数.md",
+    "大一下课程笔记s/数学分析/级数练习题.pdf",
+    "大一下课程笔记s/微积分/数项级数.md",
+    "大一下课程笔记s/数学分析/数分下册.md",
+    "大一下课程笔记s/数学分析/数分上册.md",
+    "大一下课程笔记s/会计学/会计循环.md",
+    "大一下课程笔记s/数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
+    "大一下课程笔记s/管理学/小组章程.md",
+    "README.md",
+    "未命名.md",
+    "大一下课程笔记s/微观经济学/第二章",
+    "大一下课程笔记s/Excalidraw/Drawing 2026-03-22 20.34.33.excalidraw.md",
+    "大一下课程笔记s/会计学/会计要素.md",
+    "大一下课程笔记s/微积分",
+    "大一下课程笔记s/数学分析",
+    "大一下课程笔记s/欢迎.md",
+    "大一下课程笔记s/微观经济学",
+    "大一下课程笔记s/管理学",
+    "大一下课程笔记s/数学分析(第3版)(下册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
+    "大一下课程笔记s/Excalidraw",
+    "大一下课程笔记s/会计学",
     "课程笔记s/数学分析/Drawing 2026-03-22 22.19.47.excalidraw.md",
-    "课程笔记s/数学分析/级数练习题.pdf",
-    "课程笔记s/数学分析(第3版)(下册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
-    "课程笔记s/数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
-    "级数练习题.pdf",
-    "数学分析(第3版)(上册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
     "课程笔记s/数学分析/数分下册.md",
     "课程笔记s/数学分析/数分上册.md",
     "课程笔记s/会计学/会计要素.md",
-    "数学分析(第3版)(下册) 陈纪修、於崇华、金路 (有目录) (陈纪修、於崇华、金路) (z-library.sk, 1lib.sk, z-lib.sk).pdf.pdf",
     "课程笔记s/Excalidraw/Drawing 2026-03-22 20.34.33.excalidraw.md",
-    "课程笔记s/微积分",
-    "课程笔记s/数学分析",
     "课程笔记s/欢迎.md",
-    "课程笔记s/微观经济学",
-    "课程笔记s/Excalidraw",
     "Obsidian Vault/Excalidraw/Drawing 2026-03-22 20.34.33.excalidraw.md",
     "Obsidian Vault/欢迎.md",
     "未命名.canvas",
