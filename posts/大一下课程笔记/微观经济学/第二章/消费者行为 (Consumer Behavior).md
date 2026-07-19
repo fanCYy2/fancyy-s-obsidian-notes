@@ -1,6 +1,8 @@
 ---
-title: "消费者行为 (Consumer Behavior)"
+title: 消费者行为 (Consumer Behavior)
 published: 2026-05-23
+tags:
+  - 微观经济学
 ---
 
 

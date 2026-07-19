@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b83e3d024c543716",
+        "id": "d72366bfdba79db9",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9659a9476f87df",
+            "id": "80d045259d4ff1b5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "大一下课程笔记s/微积分/数项级数.md"
+                "file": "posts/大一下课程笔记/微积分/函数项级数.md"
               },
               "icon": "excalidraw-icon",
-              "title": "数项级数"
+              "title": "函数项级数"
             }
           }
         ]
@@ -168,8 +168,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5d9659a9476f87df",
+  "active": "80d045259d4ff1b5",
   "lastOpenFiles": [
+    "posts/大一下课程笔记/微积分/数项级数.md",
     "大一下课程笔记s/微观经济学/第二章/消费者行为 (Consumer Behavior).md",
     "大一下课程笔记s/微积分/函数项级数.md",
     "大一下课程笔记s/数学分析/级数练习题.pdf",

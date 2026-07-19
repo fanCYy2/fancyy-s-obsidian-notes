@@ -1,6 +1,8 @@
 ---
-title: "topsis优劣解距离"
-published: 2026-05-23
+title: topsis优劣解距离
+published: 2026-05-10
+tags:
+  - 数学建模
 ---
 
 ## 标准化
